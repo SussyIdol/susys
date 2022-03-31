@@ -1,0 +1,6 @@
+if game.PlaceId~=6998582502 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/inceldom/dungeoncru/main/dungeon.lua",true))()
+    return
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SussyIdol/susys/main/sussybaka.lua",true))()
+end
